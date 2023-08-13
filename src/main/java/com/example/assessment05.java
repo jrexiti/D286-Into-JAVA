@@ -22,7 +22,9 @@ public class assessment05 {
             } else {
                 System.out.println(firstNum + "" + secondNum + "" + thirdNum + " is not divisible by 3!");
             }
+            System.out.println();
             scnr.close();
+
         }
 
     }
