@@ -10,7 +10,7 @@ public class assessment06 {
         String fullName = scnr.nextLine();
         String splitName[] = fullName.split(" ");
 
-        String output = splitName[splitName.length - 1].charAt(0) + ", " + splitName[0];
+        String output = splitName[splitName.length - 1].charAt(0) + "., " + splitName[0];
         if (splitName.length > 2) {
 
             output += " " + splitName[1].charAt(0) + ".";
