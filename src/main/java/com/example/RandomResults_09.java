@@ -20,6 +20,7 @@ public class RandomResults_09 {
         for (int i = 0; i < numOfTimes; i++) {
             System.out.println(showResults(rand));
         }
+        scnr.close();
 
     }
 

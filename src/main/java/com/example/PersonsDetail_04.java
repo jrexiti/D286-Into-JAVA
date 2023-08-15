@@ -14,5 +14,7 @@ public class PersonsDetail_04 {
 
         System.out.println(fullName + " is " + age + " and makes $" + salary + ".");
 
+        scnr.close();
+
     }
 }

@@ -31,7 +31,9 @@ public class PetInfo_12 {
 
         System.out.println("Name: " + pet3.getName());
         System.out.println("Type: " + pet3.getType());
-        System.out.println("Age: " + pet3.getAge()); //should this end with a ne line?
+        System.out.println("Age: " + pet3.getAge()); // should this end with a ne line?
+
+        scnr.close();
     }
 
 }

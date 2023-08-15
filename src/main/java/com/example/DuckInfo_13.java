@@ -41,5 +41,6 @@ public class DuckInfo_13 {
         // getter) duck (behavior getter)!
         System.out.println(rd.getName() + " the " + rd.getType() + " duck " + rd.getBehavior() + "!");
 
+        scnr.close();
     }
 }

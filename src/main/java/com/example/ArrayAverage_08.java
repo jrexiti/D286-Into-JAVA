@@ -35,6 +35,8 @@ public class ArrayAverage_08 {
         }
         System.out.println();
         System.out.println("Average: " + average);
+        scnr.close();
 
     }
+
 }

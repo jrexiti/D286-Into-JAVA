@@ -26,5 +26,6 @@ public class DivisibleBy_05 {
             }
         }
 
+        scnr.close();
     }
 }

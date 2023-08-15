@@ -24,5 +24,7 @@ public class NameFormatter_06 {
 
         System.out.println();
 
+        scnr.close();
+
     }
 }

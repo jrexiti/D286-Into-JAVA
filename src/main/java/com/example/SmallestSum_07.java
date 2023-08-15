@@ -30,5 +30,6 @@ public class SmallestSum_07 {
         System.out.println("Smallest: " + smallest);
         System.out.println("Sum: " + sum);
 
+        scnr.close();
     }
 }

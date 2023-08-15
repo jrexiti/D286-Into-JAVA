@@ -39,5 +39,7 @@ public class CustomerInfo_14 {
         }
 
         System.out.println("Total: " + total);
+
+        scnr.close();
     }
 }

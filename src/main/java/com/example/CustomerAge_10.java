@@ -36,6 +36,8 @@ public class CustomerAge_10 {
             customer2.printInfo();
         }
 
+        scnr.close();
+
     }
 
 }

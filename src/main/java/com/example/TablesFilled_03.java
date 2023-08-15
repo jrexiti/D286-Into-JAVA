@@ -16,5 +16,7 @@ public class TablesFilled_03 {
 
         System.out.println("Tables filled: " + tablesFilled);
 
+        scnr.close();
+
     }
 }
