@@ -5,13 +5,9 @@ import java.util.Scanner;
 
 public class RandomResults_09 {
 
-    public static String showResults(Random rand) {
+    public static boolean showResults(Random rand) {
         int randomValue = rand.nextInt(2);
-        if (randomValue == 1) {
-            return "true";
-        } else {
-            return "false";
-        }
+        return randomValue == 1;
     }
 
     public static void main(String[] args) {
