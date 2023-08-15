@@ -2,7 +2,7 @@ package com.example;
 
 import java.util.Scanner;
 
-public class Multiplication {
+public class Multiplication_02 {
 
     public static void main(String[] args) {
 
