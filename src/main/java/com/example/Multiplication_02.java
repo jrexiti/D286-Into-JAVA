@@ -20,8 +20,7 @@ public class Multiplication_02 {
 
         result = result * multiplier;
 
-        // this end with a new line? or add a sysout after this line?
-        System.out.println(result + " ");
+        System.out.println(result);
 
         scnr.close();
     }
